@@ -1,6 +1,6 @@
 # dacon 전력사용량 예측 AI 경진대회 - 체감온도 데이터 가져오기
 
-'''python
+''' python
 
 month = list(range(6,9)) # 필요한 기간 2020년 6월 1일부터 8월 31일까지.
 day = list(range(1, 32)) # 날짜는 1일부터 31일까지
